@@ -8,7 +8,7 @@ const PacksPage = () => {
     const { pack } = router.query;
 
     if (pack === 'trial') {
-        window.location.href = 'https://wa.me/447479398733';
+        window.location.href = 'https://buy.stripe.com/5kA9BycL3gwfa887sw';
     }
     if (pack === '1month') {
         window.location.href = 'https://buy.stripe.com/eVaaFC26pfsb0xy5kk';
